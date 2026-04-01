@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testWebElements.DynamicControl">
+      <class name="testWebElements.JavaScriptAlerts">
         <methods>
-          <include name="testDynamicControl"/>
+          <include name="jsAlerts"/>
         </methods>
-      </class> <!-- testWebElements.DynamicControl -->
+      </class> <!-- testWebElements.JavaScriptAlerts -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
