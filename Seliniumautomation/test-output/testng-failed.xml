@@ -5,7 +5,7 @@
     <classes>
       <class name="testWebElements.JavaScriptAlerts">
         <methods>
-          <include name="jsAlerts"/>
+          <include name="JsPrompt"/>
         </methods>
       </class> <!-- testWebElements.JavaScriptAlerts -->
     </classes>
